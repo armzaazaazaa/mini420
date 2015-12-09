@@ -105,7 +105,7 @@
                                 <br>
                                 <border><h4><B>BP:ความดันโลหิต {{$st->BP}}</B></h4></border>
                                 <br>
-                                <border><h3><B>::Commentอาการ</B></h3></border>
+                                <border><h3><B>::Commentอาการผู้ใช้งาน</B></h3></border>
                                 <br>
                                 <border><h5>{{$st->comment}}</h5></border>
                             </td>

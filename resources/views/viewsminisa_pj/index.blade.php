@@ -99,13 +99,13 @@
                         <tr>
                             <td>
                                 <br>
-                                <border><h4><B>Name: {{$st->username}}</B></h4></border>
+                                <border><h4><B>Name:ชื่อ {{$st->username}}</B></h4></border>
                                 <br>
-                                <border><h4><B>FBS: {{$st->FBS}}</B></h4></border>
+                                <border><h4><B>FBSค่าความสูงของน้ำตาลในเลือด {{$st->FBS}}</B></h4></border>
                                 <br>
-                                <border><h4><B>BP: {{$st->BP}}</B></h4></border>
+                                <border><h4><B>BP:ความดันโลหิต {{$st->BP}}</B></h4></border>
                                 <br>
-                                <border><h3><B>::Comment::</B></h3></border>
+                                <border><h3><B>::Commentอาการ</B></h3></border>
                                 <br>
                                 <border><h5>{{$st->comment}}</h5></border>
                             </td>
